@@ -1,0 +1,8 @@
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+seaborn
+urllib3
+python-dateutil

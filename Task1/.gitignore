@@ -1,0 +1,14 @@
+.env
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+.venv/
+venv/
+.env.*
+.idea/
+.vscode/
+.ipynb_checkpoints/

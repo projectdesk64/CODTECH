@@ -1,0 +1,249 @@
+[
+    {
+      "title": "Sarileru Neekevvaru",
+      "type": "Movie",
+      "year": 2020,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Ala Vaikunthapurramuloo",
+      "type": "Movie",
+      "year": 2020,
+      "verdict": "Blockbuster"
+    },
+    {
+      "title": "Bheeshma",
+      "type": "Movie",
+      "year": 2020,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Colour Photo",
+      "type": "Movie",
+      "year": 2020,
+      "verdict": "Critical Hit"
+    },
+    {
+      "title": "Middle Class Melodies",
+      "type": "Movie",
+      "year": 2020,
+      "verdict": "Hit (on OTT)"
+    },
+    {
+      "title": "Loser",
+      "type": "Web Series",
+      "year": 2020,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Chadarangam",
+      "type": "Web Series",
+      "year": 2020,
+      "verdict": "Average"
+    },
+    {
+      "title": "CommitMental",
+      "type": "Web Series",
+      "year": 2020,
+      "verdict": "Average"
+    },
+    {
+      "title": "Pushpa: The Rise",
+      "type": "Movie",
+      "year": 2021,
+      "verdict": "Blockbuster"
+    },
+    {
+      "title": "Most Eligible Bachelor",
+      "type": "Movie",
+      "year": 2021,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Red",
+      "type": "Movie",
+      "year": 2021,
+      "verdict": "Average"
+    },
+    {
+      "title": "Wild Dog",
+      "type": "Movie",
+      "year": 2021,
+      "verdict": "Flop"
+    },
+    {
+      "title": "Zombie Reddy",
+      "type": "Movie",
+      "year": 2021,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Tuck Jagadish",
+      "type": "Movie",
+      "year": 2021,
+      "verdict": "Average (OTT)"
+    },
+    {
+      "title": "Jathi Ratnalu",
+      "type": "Movie",
+      "year": 2021,
+      "verdict": "Blockbuster"
+    },
+    {
+      "title": "V",
+      "type": "Movie",
+      "year": 2020,
+      "verdict": "Average (OTT)"
+    },
+    {
+      "title": "Nishabdham",
+      "type": "Movie",
+      "year": 2020,
+      "verdict": "Flop"
+    },
+    {
+      "title": "Jaanu",
+      "type": "Movie",
+      "year": 2020,
+      "verdict": "Flop"
+    },
+    {
+      "title": "Krishna And His Leela",
+      "type": "Movie",
+      "year": 2020,
+      "verdict": "Hit (OTT)"
+    },
+    {
+      "title": "Guntur Kaaram",
+      "type": "Movie",
+      "year": 2024,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Hanu-Man",
+      "type": "Movie",
+      "year": 2024,
+      "verdict": "Blockbuster"
+    },
+    {
+      "title": "Tillu Square",
+      "type": "Movie",
+      "year": 2024,
+      "verdict": "Super Hit"
+    },
+    {
+      "title": "Kalki 2898 AD",
+      "type": "Movie",
+      "year": 2024,
+      "verdict": "Blockbuster"
+    },
+    {
+      "title": "Devara: Part 1",
+      "type": "Movie",
+      "year": 2024,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Virata Parvam",
+      "type": "Movie",
+      "year": 2022,
+      "verdict": "Flop"
+    },
+    {
+      "title": "RRR",
+      "type": "Movie",
+      "year": 2022,
+      "verdict": "Blockbuster"
+    },
+    {
+      "title": "Major",
+      "type": "Movie",
+      "year": 2022,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Bheemla Nayak",
+      "type": "Movie",
+      "year": 2022,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Radhe Shyam",
+      "type": "Movie",
+      "year": 2022,
+      "verdict": "Flop"
+    },
+    {
+      "title": "F3: Fun and Frustration",
+      "type": "Movie",
+      "year": 2022,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Kushi",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Average"
+    },
+    {
+      "title": "Dasara",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Bro",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Flop"
+    },
+    {
+      "title": "Baby",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Super Hit"
+    },
+    {
+      "title": "Miss Shetty Mr Polishetty",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Ravanasura",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Flop"
+    },
+    {
+      "title": "Agent",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Flop"
+    },
+    {
+      "title": "Virupaksha",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Super Hit"
+    },
+    {
+      "title": "Hi Nanna",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Hit"
+    },
+    {
+      "title": "Mad",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Average"
+    },
+    {
+      "title": "Balagam",
+      "type": "Movie",
+      "year": 2023,
+      "verdict": "Blockbuster"
+    }
+  ]
+  
