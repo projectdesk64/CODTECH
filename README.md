@@ -1,6 +1,6 @@
 # CODTECH
 
-A collection of four independent data/AI tasks. This README provides a single, high‑level overview with quick start instructions and links to each task’s own README for full details.
+A collection of four Codtech Internship tasks. This README provides a single, high‑level overview with quick start instructions and links to each task’s own README for full details.
 
 ## Contents
 - Task 1: Weather Analysis Dashboard
@@ -98,6 +98,7 @@ Open `Task4/Task4.ipynb` and run all cells. Dataset is downloaded at runtime.
 - Each task is self-contained with its own dependencies; prefer per-task virtual environments.
 - Large downloads may occur for NLP models (Task 3) and external datasets (Task 4).
 - API keys (Task 1, optional Task 2) should be stored in a `.env` file inside the respective task folder.
+
 
 
 
